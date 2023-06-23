@@ -4,7 +4,7 @@
 Setup controller.bat and server.py on a web hosting service
 ```
 ```
-Update the filepaths
+Update the websites in the code to where your files are being hosted
 ```
 ```
 Run client.py on the controlling server
