@@ -16,7 +16,10 @@ Execute run.bat on the target computer
 Have fun!
 ```
 ## Disclaimer
-This is not intended for malicious purposed. I am not liable for any misuse of the program. You are entirely responsible for your actions and misuse of this program. This program was created and intended for educational purposes and the remote monitoring of computers you own or have permission to use.
+This is not intended for malicious purposed. I am not liable for any misuse of the program. You are entirely responsible for your actions and misuse of this program. This program was created and intended for educational purposes and the remote monitoring of computers you own or have permission to use. Malicious use of this program could lead to jailtime. Think before you try to play a "harmless prank" on someone.
+
+## How it works
+The premise is relatively simple: setup a websocket connection between 2 computers and send cmd commands from the controlling computer to the target computer. This is achieved by a batch file installing all of the necissary files on the target computer and then executing the listener server that can recieve commands. The program will automatically check to see if python is installed and will install it autonomously if it isn't. This makes the program very easy to use for development and server usecases. Due to the nature of how this program doesn't really try to hide itself, attempting to establish a reverse shell on someone else's computer with this program is a bad idea. Their antivirus will 100% pick up what this program is doing and will shut it down. Additionally, you will have committed a cyber crime and may face jailtime. DO NOT TRY IT! READ THE DISCLAIMER!
 
 ## Use cases
 <ul>
