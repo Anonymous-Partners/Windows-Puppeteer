@@ -1,4 +1,4 @@
-# Windows-Puppeteer
+# Windows Puppeteer
 ## Installation
 ```
 Setup controller.bat and server.py on a web hosting service
