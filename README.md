@@ -15,6 +15,9 @@ Execute run.bat on the target computer
 ```
 Have fun!
 ```
+## Disclaimer
+This is not intended for malicious purposed. I am not liable for any misuse of the program. You are entirely responsible for your actions and misuse of this program. This program was created and intended for educational purposes and the remote monitoring of computers you own or have permission to use.
+
 ## Use cases
 <ul>
   + Remotely monitoring a windows server
@@ -31,5 +34,3 @@ Have fun!
 <ul>
   + Antivirus testing (reverse shell detection)
 </ul>
-## Disclaimer
-This is not intended for malicious purposed. I am not liable for any misuse of the program. You are entirely responsible for your actions and misuse of this program. This program was created and intended for educational purposes and the remote monitoring of computers you own or have permission to use.
