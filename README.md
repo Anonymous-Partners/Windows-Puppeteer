@@ -18,9 +18,17 @@ Have fun!
 ## Use cases
 <ul>
   + Remotely monitoring a windows server
+</ul>
+<ul>
   + Remotely making changes to your home computer
+</ul>
+<ul>
   + Converting your old windows computer into a home NAS
+</ul>
+<ul>
   + Penatration testing
+</ul>
+<ul>
   + Antivirus testing (reverse shell detection)
 </ul>
 ## Disclaimer
