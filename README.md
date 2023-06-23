@@ -24,7 +24,7 @@ The premise is relatively simple: setup a websocket connection between 2 compute
 ## How does Anonymous Partners use this software
 We use this software to speed up the setup of new servers. Our setup process is quite complex and being able to control multiple servers at once from a single laptop/PC is extremely useful.
 
-## Use cases
+## Additional use cases
 <ul>
   + Remotely monitoring a windows server
 </ul>
